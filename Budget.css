@@ -1,0 +1,55 @@
+h1{
+
+ color : forestgreen;
+
+ font-style: oblique;
+
+ font-kerning: auto;
+
+ text-decoration: underline;
+
+}
+
+
+
+h2{
+
+    color:orange;
+
+    font : "Courier New",Courier,monospace;
+
+    font-kerning:normal;
+
+}
+
+h3{
+    color:orange;
+    font : "Courier New",Courier,monospace;
+    font-kerning:normal;
+}
+
+h4{
+    color:orange;
+    font : "Courier New",Courier,monospace;
+    font-kerning:normal;
+}
+form{
+
+    color: Grey;
+
+    font : "Trebuchet MS", Helvetica, sans-serif;
+
+    kerning: auto;
+
+    font-size: small;
+}  
+input{
+    color: black;
+    font : "Trebuchet MS", Helvetica, sans-serif;
+    font-size:small
+}
+
+hr{
+    border: 2px solid red;
+}    
+
